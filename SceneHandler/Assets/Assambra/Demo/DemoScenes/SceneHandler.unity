@@ -304,8 +304,10 @@ MonoBehaviour:
     Open the File Assets/Assambra/Game Framework/Modules/GameManager/Scripts/Enums/GameState.cs
     and create a Scene for each GameState with the exact name (except Scene Start
     (Step 2.)) -> Login, CreateAccount, CharacterSelection, CharacterCreation, BeginnerArea,
-    World.\n\n4. Hit Play,  select the GameObject GameManager and change the GameState
-    in the dropdown menu. The Scene will change to the corresponding GameState. \n\n"
+    World.\n\n4. Adding all Scenes including Start to Build Settings -> Scenes in
+    Built.\nSet Start Scene on index 0;\n \n5. Hit Play,  select the GameObject GameManager
+    and change the GameState in the dropdown menu. The Scene will change to the corresponding
+    GameState. \n\n"
 --- !u!222 &214632886
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -734,8 +736,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -210, y: 0}
-  m_SizeDelta: {x: 400, y: -20}
+  m_AnchoredPosition: {x: -235, y: 0}
+  m_SizeDelta: {x: 450, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1921489277
 MonoBehaviour:
