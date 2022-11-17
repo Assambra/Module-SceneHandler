@@ -6,7 +6,7 @@
 ## Unity Package Manager
 
 ### Packages: Unity Built-in
- - None
+ - Visual Studio Editor v2.0.16 *
 
 ### Packages: Unity Registery
  - None
