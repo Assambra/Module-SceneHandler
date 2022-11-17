@@ -7,7 +7,8 @@
 
 ### Packages: Unity Built-in
  - Visual Studio Editor v2.0.16 *
-
+ - Unity UI v1.0.0
+ 
 ### Packages: Unity Registery
  - None
 
