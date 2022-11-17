@@ -43,7 +43,6 @@
                 <li><a href="#built-with">Built With</a></li>
             </ul>
         </li>
-        <li><a href="#unity-game-framework">Game Framework</a></li>
         <li><a href="#modules">Modules</a></li>
         <li><a href="#be-a-gentlemen">Be a Gentlemen</a></li>
     </ol>
@@ -57,7 +56,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## The Unity Game Framework
-Learn more about the Unity Game Framework <a href="https://github.com/Assambra/Unity-Game-Framework#about-the-project">here</a>
+Learn more about the Unity Game Framework <a href="https://github.com/Assambra/Unity-Game-Framework#the-unity-game-framework">here</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
